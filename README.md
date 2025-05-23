@@ -2,7 +2,7 @@
 Build a responsive React application that fetches a list of users from a public API and displays them using Material UI components. 
 
 ## Step 1: Fetch Data
-Use the endpoint https://reqres.in/api/users to fetch user data. You have to get a free API key from Reqres.in website to access the REST API.
+Use the endpoint https://reqres.in/api/users to fetch user data. You have to get a free API key from ![Reqres.in](https://reqres.in/) website to access the REST API.
 
 Handle loading and error states appropriately.
 
