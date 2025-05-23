@@ -18,3 +18,4 @@ Arrange the cards in a responsive grid layout using Material UI’s Grid system.
 
 ### Example output:
 
+![User Grid](.src/assets/usergrid.png)
